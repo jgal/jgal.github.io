@@ -1,7 +1,7 @@
 .main-header {
 	height: 100vh;
 
-	background-image: url(assets/img/stars.jpeg);
+	background-image: url(my-website/assets/img/stars.jpeg);
 	background-position: center center;
 	background-size: cover;
 }
