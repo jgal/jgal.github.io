@@ -45,17 +45,20 @@
 }
 
 .projects {
+    padding: 100px 0;
      background-color: #a89;
     color: #000;
     
 }
 
 .involve {
+    padding: 100px 0;
      background-color: #95f;
     color: #fff;
 }
 
 footer {
+    padding: 100px 0;
     background-color: #113;
     padding: 2em;
     color: #fff;
