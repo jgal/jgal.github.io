@@ -1,12 +1,11 @@
 .main-header {
-	height: 50vh;
-	background-color: #FF7F50;
-        padding: 100px 0;
+	height: 25vh;
+	background-color: #FFA07A;
 }
 
 .header-text {
     position: relative;
-    top: 40%;
+    top:20%;
     font-size: medium;
     color: white;
     text-align: center;
@@ -18,7 +17,9 @@
 }
 
 .image {
-    padding-bottom: 50px;
+    padding: 10px;
+    position: relative;
+    text-align: center;
 }
 
 .section-title {
