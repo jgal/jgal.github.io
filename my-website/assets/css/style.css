@@ -17,7 +17,7 @@
 }
 
 .image {
-    padding-bottom: 50px;
+    padding: 100px 0;
 }
 
 .section-title {
@@ -31,7 +31,7 @@
     text-align: left;
     margin-left: 10em;
     margin-right: 10em;
-  padding-bottom: 50px; 
+    padding-bottom: 50px; 
 }
 .about {
     padding: 100px 0;
@@ -42,7 +42,7 @@
 }
 
 .projects {
-    padding: 100px 0;
+    
      background-color: #a89;
     color: #000;
     
