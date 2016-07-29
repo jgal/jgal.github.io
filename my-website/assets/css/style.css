@@ -17,6 +17,13 @@
     font-size: 6em;
 }
 
+.image {
+    width:25%;
+    height:25%;
+    margin-bottom: 50px;
+    position: relative;
+}
+
 .section-title {
     margin-top: 0;
     font-size: 3em;
