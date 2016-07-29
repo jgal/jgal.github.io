@@ -1,6 +1,7 @@
 .main-header {
 	height: 50vh;
 	background-color: #FF7F50;
+        padding: 100px 0;
 }
 
 .header-text {
@@ -42,7 +43,7 @@
 }
 
 .projects {
-    
+    padding: 100px 0;
      background-color: #a89;
     color: #000;
     
