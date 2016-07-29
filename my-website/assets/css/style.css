@@ -1,9 +1,7 @@
 .main-header {
-	height: 100vh;
-
+	height: 50vh;
 	background-image: url(assets/img/stars.jpeg);
-	background-position: center center;
-	background-size: cover;
+	background-color: #113;
 }
 
 .header-text {
@@ -17,10 +15,6 @@
 .header-title {
      margin-top: 0;
     font-size: 6em;
-}
-
-.header-subtitle {
-    font-size: 3em;
 }
 
 .section-title {
